@@ -56,3 +56,4 @@ Column 1|Column 2|column 3
 *Info 1*  |__Info 2__  |Info 3  
 Info 4 __il adapte les cellules au text__  |Info 5  |Info 6 __On peut faire de long text__
 
+![projet image](./mathias-caseel.jpg "projet image")
